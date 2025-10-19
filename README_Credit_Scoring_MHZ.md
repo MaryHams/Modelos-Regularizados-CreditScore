@@ -1,10 +1,10 @@
 # Evaluación y Comparación de Modelos Regularizados para Scoring Crediticio
 
 ### Curso: Machine Learning – Módulo 11  
-**Autora:** [Tu Nombre Aquí]  
+**Autora:** Mary Huaiquin 
 **Fecha:** Octubre 2025  
 **Institución:** Kibernum Capacitación – Data Science & Machine Learning  
-**Herramientas:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Google Colab  
+**Herramientas:** Python 3, Scikit-learn, Pandas, Matplotlib, Seaborn, Google Colab  
 
 ---
 
@@ -113,7 +113,7 @@ Además, comprendí que en contextos financieros, la interpretabilidad es esenci
 📁 Scoring_Crediticio_Lasso_Ridge/
 │
 ├── EM5_MHZ.ipynb                       # Notebook principal (Google Colab)
-├── Informe_Extendido_Scoring_Crediticio_MHZ.docx   # Informe técnico completo
+├── Informe__Scoring_Crediticio_MHZ.pdf   # Informe técnico completo
 └── README_Credit_Scoring_MHZ.md        # Descripción del proyecto (este archivo)
 ```
 
@@ -133,3 +133,15 @@ Además, comprendí que en contextos financieros, la interpretabilidad es esenci
 - Dataset: OpenML “credit-g”.  
 - Librerías: scikit-learn, pandas, numpy, matplotlib, seaborn.  
 - Curso: Machine Learning – Kibernum Capacitación, 2025.
+  
+## 12. Entorno y versiones utilizadas
+
+Este proyecto fue desarrollado en **Python 3.10** (Google Colab) con las siguientes versiones de librerías para asegurar la reproducibilidad:
+
+- numpy == 1.26.4  
+- pandas == 2.2.2  
+- scikit-learn == 1.4.2  
+- matplotlib == 3.8.4  
+- seaborn == 0.13.2  
+- openml == 0.14.2  
+- joblib == 1.4.2  
