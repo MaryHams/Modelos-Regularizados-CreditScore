@@ -1,7 +1,7 @@
 # Proyecto: Evaluación y Comparación de Modelos Regularizados para Scoring Crediticio
 
 **Autora:** Mary Huaiquin  
-**Curso:** Machine Learning – Módulo 7  
+**Curso:** Machine Learning – Módulo 5  
 **Plataforma:** Google Colab  
 **Lenguaje:** Python 3  
 
