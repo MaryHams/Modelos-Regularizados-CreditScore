@@ -13,7 +13,7 @@
 |--------------------|-------------|
 | `EM5_MHZ.ipynb` | Notebook principal con el desarrollo completo del modelo de scoring crediticio. Incluye preprocesamiento, entrenamiento, regularización Lasso y Ridge, métricas, curva ROC y matriz de confusión. |
 | `Informe_Scoring_Crediticio_MHZ.docx` | Informe técnico extendido con análisis detallado, tablas comparativas y conclusiones profesionales. |
-| `README.md` | Descripción general del proyecto bajo el modelo STAR. |
+| `README_Credit_Scoring_MHZ.md` | Descripción general del proyecto. |
 
 ---
 
